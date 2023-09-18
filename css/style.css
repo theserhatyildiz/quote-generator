@@ -44,7 +44,7 @@ body {
 
 .container {
 width: 100%;
-background-color: #f43543;
+background-color:  rgba(206, 44, 77, 100%);
 padding: 50px 40px;
 box-shadow: 0 20px 65px rgba(87, 11, 16, 0.5);
 position: relative;
